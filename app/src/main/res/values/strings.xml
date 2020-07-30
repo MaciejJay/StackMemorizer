@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Stack Memorizer</string>
+    <string name="practice">Practice</string>
+    <string name="test">test</string>
+    <string name="settings">settings</string>
+    <string name="choose_stack">Choose Stack</string>
+    <string name="choose_stack_for_test">Choose stack for test</string>
+    <string name="choose_stack_for_practice">Choose stack for practice</string>
+    <string name="mnemonica">Mnemonica</string>
+    <string name="mnemonica_practice">Mnemonica Practice</string>
+    <string name="_1_13">1-13</string>
+    <string name="_14_26">14-26</string>
+    <string name="_27_39">27-39</string>
+    <string name="_40_52">40-52</string>
+    <string name="_1_26">1-26</string>
+    <string name="_27_52">27-52</string>
+    <string name="_1_39">1-39</string>
+    <string name="_1_52">1-52</string>
+    <string name="show_stack">show stack</string>
+</resources>
