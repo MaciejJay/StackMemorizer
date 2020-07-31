@@ -10,10 +10,10 @@ class Mnemonica : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_mnemonica)
 
-//        mnemonica1.setOnClickListener {
-//            startActivity(Intent(this, Mnemonica1::class.java))
-//        }
-//
+        mnemonica1.setOnClickListener {
+            startActivity(Intent(this, Mnemonica1::class.java))
+        }
+
 //        mnemonica2.setOnClickListener {
 //            startActivity(Intent(this, Mnemonica2::class.java))
 //        }
